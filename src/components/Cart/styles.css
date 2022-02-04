@@ -1,0 +1,12 @@
+.cart {
+  position: relative;
+}
+
+.cart__button {
+  padding: 10px 20px;
+  background-color: #359a2c;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}

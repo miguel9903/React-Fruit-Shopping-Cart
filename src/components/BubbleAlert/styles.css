@@ -1,0 +1,11 @@
+.bubble-alert {
+  padding: 2px 10px;
+  background-color: #c0392b;
+  color: #fff;
+  border: none;
+  font-size: 0.8rem;
+  border-radius: 15px;
+  position: absolute;
+  left: -5px;
+  bottom: -5px;
+}
